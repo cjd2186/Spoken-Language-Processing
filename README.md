@@ -16,7 +16,7 @@ This repository offers a hands-on exploration of key tasks in Spoken Language Pr
 
 ---
 
-## 🧰 Technologies & Librarie
+## 🧰 Technologies & Libraries
 
  The project leverages a variety of tools and libraris: 
 
