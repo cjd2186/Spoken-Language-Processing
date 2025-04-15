@@ -1,4 +1,4 @@
-🗣️ Spoken Language Processing
+### 🗣️ Spoken Language Processing
 This repository offers a hands-on exploration of key tasks in Spoken Language Processing (SLP), including dialogue act recognition, emotion classification, and speech feature extraction. Each module demonstrates practical applications using state-of-the-art tools and machine learning techniques.
 
 ---
